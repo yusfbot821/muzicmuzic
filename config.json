@@ -1,6 +1,6 @@
 {
-    "prefix": "Your Bot Prefix",
-    "token": "Your Discord Bot Token",
+    "prefix": "!",
+    "token": "MTA0MzkxMjUyMDcyMjgxMzAyOA.GKtb5U.Nhb6QCFOwm5_KTIJf7TRCywUyGkh2Jbmevp3do",
     "emoji": {
         "play": "▶️",
         "stop": "⏹️",
